@@ -59,7 +59,7 @@ def main():
         elif choice == '3':
             break
         else:
-            print("Invalid choice. Please enter 1, 2, or 3.")
+            print("Invalid choice. Please enter 1, 2 or 3.")
 
 
 if __name__ == "__main__":
